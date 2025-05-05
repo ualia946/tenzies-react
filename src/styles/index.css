@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  background-color: #0B2434;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+}
+
